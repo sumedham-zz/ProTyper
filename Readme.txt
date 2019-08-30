@@ -10,7 +10,7 @@ Features:
 
 oAbility to cater to different users using a login
 
-oAbility to learn from users performance to give each user a unique experience that helps the users work on their week spots and track their progress
+oAbility to learn from users performance to give each user a unique experience that helps the users work on their weak spots and track their progress
 
 oAbility to cater to Visually Impaired students by adding a sound feature.
 
@@ -27,4 +27,7 @@ python finalproject.py
 Or can be opened with Sublime Text where you can use Ctrl-B(Windows) or Command-B(Mac)
 (Python 2.3+)
 
-
+
+
+
+
